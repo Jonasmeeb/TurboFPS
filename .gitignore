@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+bin/
+
+# Eclipse
+*.launch
+.settings/
+.metadata
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Fabric
+run/
+logs/
+crash-reports/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Minecraft
+.minecraft/
+minecraft/
+
+# Misc
+*.log
+*.class
+*.jar
+!gradle-wrapper.jar
+
+# Loom cache (IMPORTANT - excludes those long paths)
+
+.gradle/loom-cache/

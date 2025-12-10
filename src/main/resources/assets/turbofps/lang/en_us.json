@@ -1,0 +1,18 @@
+{
+	"modmenu.nameTranslation.turbofps": "TurboFPS",
+	"modmenu.descriptionTranslation.turbofps": "Ultimate Minecraft optimization with smart presets",
+	"text.autoconfig.turbofps.title": "TurboFPS Configuration",
+	"text.autoconfig.turbofps.category.presets": "Performance Presets",
+	"text.autoconfig.turbofps.category.custom": "Custom Settings",
+	"text.autoconfig.turbofps.category.advanced": "Advanced",
+	"text.autoconfig.turbofps.category.about": "About",
+	"text.autoconfig.turbofps.option.preset": "Current Preset",
+	"text.autoconfig.turbofps.option.preset.tooltip": "Choose your performance preset based on your PC",
+	"text.turbofps.preset.potato": "Potato PC - Maximum FPS",
+	"text.turbofps.preset.low_end": "Low End - High FPS",
+	"text.turbofps.preset.balanced": "Balanced - Recommended",
+	"text.turbofps.preset.high_end": "High End - High Quality",
+	"text.turbofps.preset.ultra": "Ultra - Maximum Quality",
+	"text.turbofps.chat.preset_changed": "§aTurboFPS: Switched to %s preset!",
+	"text.turbofps.chat.fps_boost": "§e+%d%% FPS boost detected!"
+}
